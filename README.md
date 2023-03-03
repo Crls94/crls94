@@ -2,15 +2,15 @@
 
 ### Datos personales ✔
 
-| NOMBRES Y APELLIDOS: |	Carlos Encalada D.|
-| - | - |
-| LUGAR Y FECHA DE NACIMIEINTO:|		05 de Febrero de 1992|
-| CÉDULA DE CIUDADANÍA:|			7296000 de Peru|
-| SEXO:		|				Masculino|
-| ESTADO CIVIL:|				Soltero|
-| DIRECCIÓN:	 |  				Cll 7 #B-18. Lima, Peru|
-| TELÉFONO:|					+51 956 999 999|
-| E-MAIL:     |  adrian97rcjz@gmail.com  |       
+| NOMBRES Y APELLIDOS:          |	Carlos A.E.D.      |
+| -                             | -                       |
+| LUGAR Y FECHA DE NACIMIEINTO: | 05 de Febrero de 1992   |
+| CÉDULA DE CIUDADANÍA:         | 7296000 de Peru         |
+| SEXO:		                      | Masculino               |
+| ESTADO CIVIL:                 | Soltero                 |
+| DIRECCIÓN:	                  | Cll 7 #B-18. Lima, Peru |
+| TELÉFONO:                     | +51 956 999 999         |
+| E-MAIL:                       | adrian97rcjz@gmail.com |       
 
 
 
@@ -19,11 +19,16 @@
 - Tengo dos años de experiencia en mi campo y me encuentro realizando mi bootcamp de undefined shell.
 - Me interesa principalmente, trabajar en proyectos con un nivel de innovación alto y un enfoque social.
 
+### Estos son los 5 comando ✔
 
-### Formacion academica ✔
-COLEGIO XXXXX | BACHILLERATO ACADÉMICO
-2011
-UNIVERSIDAD XXXXX | PREGRADO EN XXXX
-2016
-UNIVERSIDAD XXXXX | MAESTRÍA EN XXXXX
-2016
+| Comando |	Descripción               |
+| -       | -                         |
+| ls      | Lista el contenido        |
+| cd      | Cambiar entre directorios |
+| yarn    | Instalar dependencias     |
+| gst	    | Alias de git status       |
+| clear	  | Limpiar la terminal       |
+| alias	  | Listar los alias          |
+
+### Estos son mis alias más usados ✔
+- mostused='history | awk '\''{print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
