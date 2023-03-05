@@ -13,7 +13,6 @@
 | E-MAIL:                       | adrian97rcjz@gmail.com |       
 
 
-
 ### Perfil Profesional ✔
 - Soy una persona responsable, puntual, creativa y con muy buena disposición para cualquier tarea que se me asigne. 
 - Tengo dos años de experiencia en mi campo y me encuentro realizando mi bootcamp de undefined shell.
