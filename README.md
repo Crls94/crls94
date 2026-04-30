@@ -2,15 +2,15 @@
 
 ### Datos personales ✔
 
-| NOMBRES Y APELLIDOS:          |	Carlos A.E.D.      |
+| NOMBRES Y APELLIDOS:          |	Carlos A.E.D.           |
 | -                             | -                       |
-| LUGAR Y FECHA DE NACIMIEINTO: | 05 de Febrero de 1992   |
-| CÉDULA DE CIUDADANÍA:         | 7296000 de Peru         |
+| LUGAR Y FECHA DE NACIMIEINTO: | 05 de Febrero           |
+| CÉDULA DE CIUDADANÍA:         | 0000000 de Peru         |
 | SEXO:		                      | Masculino               |
 | ESTADO CIVIL:                 | Soltero                 |
 | DIRECCIÓN:	                  | Cll 7 #B-18. Lima, Peru |
 | TELÉFONO:                     | +51 956 999 999         |
-| E-MAIL:                       | adrian97rcjz@gmail.com |       
+| E-MAIL:                       | adri@gmail.com          |       
 
 
 ### Perfil Profesional ✔
