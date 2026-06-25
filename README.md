@@ -68,11 +68,11 @@ Me encanta optimizar mi flujo de trabajo directamente desde la línea de comando
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Adrian" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Crls94&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Adrian" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crls94&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
