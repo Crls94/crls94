@@ -68,16 +68,16 @@ Me encanta optimizar mi flujo de trabajo directamente desde la línea de comando
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crls94&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Adrian" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Crls94&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Adrian" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crls94&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Crls94&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
 
 ### 📬 Conéctate conmigo
 
-- 📧 **Email:** adri@gmail.com
-- 💼 [LinkedIn](https://linkedin.com) *(¡Asegúrate de enlazar tu perfil profesional aquí!)*
+- 📧 **Email:** adrian@gmail.com
+- 💼 [LinkedIn](https://linkedin.com)
