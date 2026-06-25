@@ -6,7 +6,7 @@ Un apasionado **Junior Fullstack Developer** y estudiante de **Ingeniería de Si
 
 ### 🚀 Sobre mí
 
-- 🎓 Estudiante de Ingeniería de Sistemas en la Universidad Tecnológica del Perú.
+- 🎓 Estudiante de Ingeniería de Sistemas en la Universidad Tecnológica.
 - 💻 Desarrollador Fullstack Junior con experiencia en desarrollo web y lógica de backend.
 - 🌱 Profundizando constantemente en optimización de bases de datos, arquitecturas de software y modelos de IA locales.
 - ⚙️ Fanático de la automatización, el scripting en Bash y la optimización del entorno de la terminal.
@@ -66,7 +66,6 @@ Me encanta optimizar mi flujo de trabajo directamente desde la línea de comando
 
 ### 📊 Estadísticas de GitHub
 
-*(No te preocupes por no tener estadísticas gigantes ahora; estas tarjetas dinámicas se actualizarán automáticamente y de forma visual conforme sigas construyendo tus proyectos).*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Adrian" />
