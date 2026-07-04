@@ -1,4 +1,4 @@
-# ¡Hola! Soy Adrian 👋
+# ¡Hola! Soy •Adrian ∞~~
 
 Un apasionado **Junior Fullstack Developer** y estudiante de **Ingeniería de Sistemas** enfocado en el desarrollo de software robusto, escalable y con un alto nivel de innovación tecnológica. Me motiva crear soluciones eficientes combinando arquitecturas backend sólidas, interfaces intuitivas e inteligencia artificial.
 
